@@ -1,1 +1,0 @@
-https://github.com/AMalloch/ReactJS_Stocks_and_Shares_App
